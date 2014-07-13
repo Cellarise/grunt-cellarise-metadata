@@ -1,0 +1,20 @@
+{
+  "name": "grunt-cellarise-metadata",
+  "description": "A grunt task to populate build properties into an npm package.json.",
+  "version": "0.1.0",
+  "author": "John Barry",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cellarise/grunt-cellarise-metadata.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/webdriverio/grunt-webdriver/blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": [
+    "grunt",
+    "metadata"
+  ]
+}
